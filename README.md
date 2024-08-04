@@ -15,6 +15,6 @@ https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=da
   - 5-겹 교차검증을 통해 모델의 일반화 성능을 평가했습니다.
   - 랜덤 서치를 통해 하이퍼파라미터 최적화했습니다. 이를 통해 모델의 성능을 1% 향상시켰습니다.  
 - 최종 모델 성능 평가
-  - 최종 모델의 Kappa 통계량이 94%에 도달했습니다.
+  - 최종 모델의 정확도가 94%에 도달했습니다.
 
 [![image](https://github.com/user-attachments/assets/2a212ede-fd9c-4cb1-803d-e3a0c0552f5f)](https://github.com/codnjs042/Data-Mining-Project1/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%88%EC%9D%B4%EB%8B%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20-%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%83%81%EC%88%98%EB%8F%84%EA%B4%80%20%EB%88%84%EC%88%98%20%EA%B0%90%EC%A7%80.ipynb)
